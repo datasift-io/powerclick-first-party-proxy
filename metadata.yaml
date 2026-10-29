@@ -1,0 +1,6 @@
+homepage: "https://powerclick.io"
+documentation: "https://powerclick.io"
+versions:
+  # Add the SHA of the commit that published template.tpl here (newest first), e.g.
+  # - sha: 0123456789abcdef0123456789abcdef01234567
+  #   changeNotes: Initial release.
