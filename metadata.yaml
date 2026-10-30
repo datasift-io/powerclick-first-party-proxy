@@ -1,5 +1,7 @@
 homepage: "https://powerclick.io"
 documentation: "https://github.com/datasift-io/powerclick-first-party-proxy#readme"
 versions:
+  - sha: 7befc33ee66ae17b8d1434b420b3d9514e4f597d
+    changeNotes: Adds the PowerClick icon.
   - sha: 2293f6ef888f372bffce66579900e57804a531fb
     changeNotes: Initial release.
